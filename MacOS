@@ -5,3 +5,4 @@ Changes:
 - Dock item re-opens main window
 - Cosmetic improvements: Logo, centering
 - Min/Max Window Size
+- Show feedback to user if they input invalid LICENSE/EMAIL
