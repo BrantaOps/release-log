@@ -1,0 +1,11 @@
+All Versions:
+
+Operating System: 11 - 13.6.2
+11 MacOS Big Sur
+12 MacOS Monterey
+13 MacOS Ventura
+
+Not Tested: < 11, 14
+14 MacOS Sonoma
+
+Architecture: Intel, ARM
