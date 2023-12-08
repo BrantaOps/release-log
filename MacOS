@@ -1,7 +1,7 @@
 Version: 0.1.5
 Changes:
-- Round Logo
-- “About” Button re-opens main window
-- Clicking Dock item re-opens main window
-- Cosmetic improvements: Logo, constraints
+- Square Logo --> Round Logo
+- “About” Button in top Menu re-opens main window
+- Dock item re-opens main window
+- Cosmetic improvements: Logo, centering
 - Min/Max Window Size
