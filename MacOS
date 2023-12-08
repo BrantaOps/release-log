@@ -2,4 +2,5 @@ Version: 0.1.5
 Changes:
 - Round Logo
 - “About” Button re-opens main window if user closes it
-- Cosmetic improvements.
+- Cosmetic improvements: Logo, constraints
+- Min/Max Window Size
