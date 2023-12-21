@@ -1,4 +1,4 @@
-### All Versions
+# All Versions
 
 **Supported Operating Systems**
 * MacOS 11 Big Sur
