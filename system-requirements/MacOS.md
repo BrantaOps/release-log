@@ -1,14 +1,14 @@
 ### All Versions
 
-**Operating System**
+**Supported Operating Systems**
 * MacOS 11 Big Sur
 * MacOS 12 Monterey
 * MacOS 13 Ventura
 * MacOS 14 Sonoma
 
-**Not Tested**
-* <= 10 MacOS Catalina
+**Untested Operating Systems**
+* MacOS 10 Catalina and before
 
 **Additional Info**
-- Architectures: All
+- Supported Architectures: All
 - Internet connection required for initial setup.
