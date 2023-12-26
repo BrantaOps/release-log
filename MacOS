@@ -1,7 +1,14 @@
 Version: 0.1.8
+Date: 12/25/23
 Changes:
 - Sparrow wallet verification
 - Trezor wallet verification
+- Wallet verification modal shows status
+- Tighten xpub / bitcoin private key seedphrase checks
+- Use updated icons/colors for status
+- Update Font
+- Show status in menu bar
+- Remove max window size constraint
 
 Version: 0.1.7
 Changes:
