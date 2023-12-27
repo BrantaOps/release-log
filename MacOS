@@ -1,3 +1,13 @@
+Version: 0.1.10
+Date: 12/27/23
+Changes:
+- Display alert in realtime if wallet goes red
+- Ledger Wallet support for x86/arm
+- Show app version under wallet analysis
+- Wording: "Active" not "Protected"
+- Notify user if wallet is far out of date
+- Capitalize Branta in menu
+
 Version: 0.1.8
 Date: 12/25/23
 Changes:
