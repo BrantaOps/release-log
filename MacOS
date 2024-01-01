@@ -1,3 +1,9 @@
+Version: 0.1.11
+Date: 1/1/24
+Changes:
+- Removes notifications for non-Bitcoin addressess
+- License/Email Fields are single line mode
+
 Version: 0.1.10
 Date: 12/27/23
 Changes:
